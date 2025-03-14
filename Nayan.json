@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "Arman-bot",
-  "PREFIX": "/",
+  "PREFIX": "$",
   "OPERATOR": [
     "100014896964436",
     ""
